@@ -7,3 +7,6 @@ this was wrote by feature1~!!
 
 <!--  -->
 this is a new dev change 
+<!-- text git stash -->
+
+this is a test for git stash~!!!
